@@ -1,0 +1,74 @@
+# Team, listed alphabetically by surname (sort key: `surname`).
+# web / orcid are optional; leave empty if none.
+- title: "Victoria Di Césare"
+  id: dicesare
+  surname: "Di Cesare"
+  role: "PhD candidate · University of Granada"
+  image: assets/img/team/victoria.jpg
+  web: https://sites.google.com/view/vdicesare
+  orcid: 0000-0001-7098-1914
+  bio: "PhD candidate at the University of Granada (FPI fellow) and member of the EC3 Research Group. She studies science as a social activity, focusing on Global North–South patterns in the international division of scientific labour."
+- title: "Luyu Du"
+  id: du
+  surname: "Du"
+  role: "PhD candidate · Arizona State University"
+  image: assets/img/team/luyu.jpg
+  web: https://www.linkedin.com/in/luyudu/
+  orcid: 0009-0008-2127-8251
+  bio: "PhD candidate in Public Administration and Policy at ASU and Graduate Student Fellow at CORD. Her research looks at science policy and the societal impact of research, with a focus on knowledge co-production with public organizations."
+- title: "Elvira González-Salmón"
+  id: gonzalez
+  surname: "Gonzalez-Salmon"
+  role: "PhD candidate · University of Granada"
+  image: assets/img/team/elvira.jpg
+  web: https://sites.google.com/go.ugr.es/egonzalezsalmon
+  orcid: 0000-0003-3826-766X
+  bio: "PhD candidate at the University of Granada (FPU fellow), trained in International Relations and in History of Politics and Society (Utrecht). She studies gender inequalities in academia and how they shape research agendas."
+- title: "Evaristo Jiménez-Contreras"
+  id: jimenez
+  surname: "Jimenez-Contreras"
+  role: "University of Granada"
+  image: assets/img/team/evaristo.jpg
+  web: ""
+  orcid: 0000-0001-5668-7057
+  bio: "Full professor of Bibliometrics at the University of Granada and founding director of the EC3 Research Group. His work on scientometric indicators for research evaluation includes the Spanish sexenios, peer review panels and talent-attraction programmes."
+- title: "Julia Melkers"
+  id: melkers
+  surname: "Melkers"
+  role: "Arizona State University"
+  image: assets/img/team/julia.jpg
+  web: https://search.asu.edu/profile/846286
+  orcid: 0000-0001-5045-4068
+  bio: "Professor at Arizona State University and Director of the Center for Organization Research and Design (CORD). She studies research careers and gender inequalities in academia, using network analysis and survey data."
+- title: "Lili Miao"
+  id: miao
+  surname: "Miao"
+  role: "TBC"
+  image: assets/img/team/lili.jpg
+  web: https://github.com/LiliMiaohub
+  orcid: ""
+  bio: "Informatics researcher trained at Indiana University Bloomington. She works on geographic inequalities in science and the Global North–South divide, and on scientific mobility."
+- title: "Irene Ramos-Vielba"
+  id: ramos
+  surname: "Ramos-Vielba"
+  role: "IESA-CSIC"
+  image: assets/img/team/irene.jpg
+  web: https://www.iesa.csic.es/directorio/irene-ramos-vielba/
+  orcid: 0000-0002-8998-0388
+  bio: "Political scientist at the Institute for Advanced Social Studies (IESA-CSIC), advisor to ANECA and member of the CoARA Steering Board. She works on research and innovation policy, the societal value of research and open science."
+- title: "Nicolás Robinson-García"
+  id: robinson
+  surname: "Robinson-Garcia"
+  role: "Principal investigator · University of Granada"
+  image: assets/img/team/nicolas.jpg
+  web: https://elrobin.github.io/
+  orcid: 0000-0002-0585-7359
+  bio: "Associate professor of bibliometrics and research evaluation at the University of Granada and scientific director of U^CHASS. He works on research careers, diversity and the organization of scientific work, and co-edits Research Evaluation."
+- title: "Cassidy R. Sugimoto"
+  id: sugimoto
+  surname: "Sugimoto"
+  role: "Georgia Institute of Technology"
+  image: assets/img/team/cassidy.jpg
+  web: https://spp.gatech.edu/people/person/sugimoto-cassidy
+  orcid: 0000-0001-8608-3203
+  bio: "Professor and Chair of the School of Public Policy at Georgia Tech. An internationally recognized scientometrician, her work on scientific careers and inequalities, especially gender, has appeared in Nature and PNAS."

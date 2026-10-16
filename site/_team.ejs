@@ -1,0 +1,14 @@
+<div class="team">
+<% for (const m of items) { %>
+<div class="member" id="m-<%- m.id %>" data-member="<%- m.id %>" <%= metadataAttrs(m) %>>
+<div class="ph"><img src="<%- m.image %>" alt="Portrait of <%= m.title %>" loading="lazy"></div>
+<div class="name"><%= m.title %></div>
+<div class="role"><%= m.role %></div>
+<details>
+<summary>Bio</summary>
+<p><%= m.bio %></p>
+<p class="links"><% if (m.web) { %><a href="<%- m.web %>">Website ↗</a><% } %><% if (m.orcid) { %><a href="https://orcid.org/<%- m.orcid %>">ORCID ↗</a><% } %></p>
+</details>
+</div>
+<% } %>
+</div>

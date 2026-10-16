@@ -1,0 +1,43 @@
+---
+title: "The Project"
+subtitle: "Who does the work in science, who gets the credit, and why it matters for inequality."
+listing:
+  id: milestones
+  contents: data/milestones.yml
+  template: _timeline.ejs
+  sort: false
+---
+
+## What STITCH is about
+
+::: {.wide}
+Science is increasingly done in teams, yet we still evaluate it as if it were the work of individuals. **STITCH** (*Scientific Teams and InequaliTies: Collaboration and Heterogeneity in Science*) looks inside research teams to understand how work is divided, how this varies across fields, and how that division shapes careers and inequalities by **gender, geography and career stage**.
+
+We combine sociology of science, bibliometrics and data science, starting from a large collection of publications with contribution statements (CRediT). The goal is evidence that helps build fairer ways of recognising and evaluating collective work.
+:::
+::: {.aims}
+::: {}
+<span class="aim-n">01</span>
+
+**Map** how scientific teams organise their work across fields.
+:::
+::: {}
+<span class="aim-n">02</span>
+
+**Follow** how teams and roles change over time.
+:::
+::: {}
+<span class="aim-n">03</span>
+
+**Uncover** the inequalities built into who does what.
+:::
+:::
+
+<hr class="seam">
+
+## Where we are
+
+<p class="sub">A living roadmap: plans change as research does.</p>
+
+::: {#milestones}
+:::

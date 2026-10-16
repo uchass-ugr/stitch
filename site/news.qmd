@@ -1,0 +1,10 @@
+---
+title: "News"
+subtitle: "Results, talks and goings-on from the STITCH team."
+listing:
+  contents: news/*.qmd
+  template: _news.ejs
+  sort: "date desc"
+  categories: false
+  date-format: "YYYY-MM-DD"
+---

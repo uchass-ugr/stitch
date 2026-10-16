@@ -1,0 +1,38 @@
+# Project milestones, shown top to bottom on The Project page.
+# status: done | ongoing | next     link (optional): where to read more
+# Keep labels open-ended: this is a living plan, not a contract.
+- title: "Getting the data in place"
+  when: "Year 1"
+  status: done
+  text: "Secured access to large-scale contribution data and expanded it with a second delivery covering 2023–2025."
+  link: news/2026-02-17-CredIT.qmd
+- title: "How work is divided across disciplines"
+  when: "Year 1"
+  status: done
+  text: "A first map of who does what in research teams, using contribution statements across fields."
+  link: https://doi.org/10.5281/zenodo.18324546
+- title: "Looking at gender in the scientific workforce"
+  when: "Year 1"
+  status: done
+  text: "Thirty years of women in Spanish science, as a baseline for the inequality studies."
+  link: https://doi.org/10.3989/redc.2025.4.1767
+- title: "Types of team organization"
+  when: "Year 2"
+  status: ongoing
+  text: "Grouping teams by how they divide labour, and asking what explains the differences."
+- title: "How teams change over time"
+  when: "Year 2"
+  status: next
+  text: "Extending the analysis beyond the original data to follow teams and roles over time."
+- title: "Inequalities inside teams"
+  when: "Year 2–3"
+  status: next
+  text: "Who gets which role, and how gender, geography and mobility shape it."
+- title: "Open data and code"
+  when: "Year 3"
+  status: next
+  text: "Replication packages and shareable derived data, archived with DOIs."
+- title: "Talking to evaluators and policy-makers"
+  when: "Year 3"
+  status: next
+  text: "A workshop and a short report translating findings into recommendations for research assessment."

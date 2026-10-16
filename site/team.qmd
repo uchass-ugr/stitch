@@ -1,0 +1,47 @@
+---
+title: "The Team"
+subtitle: "Nine researchers who reached the same question from different places."
+listing:
+  id: team
+  contents: data/team.yml
+  template: _team.ejs
+  sort: "surname"
+---
+
+## Who we are
+
+::: {#team}
+:::
+
+<hr class="seam">
+
+## Where we come from
+
+<p class="sub">A genealogy of the ideas behind STITCH. The blue tags mark where each of us starts from; click a name to jump to their profile.</p>
+
+{{< include _genealogy.qmd >}}
+
+```{=html}
+<script>
+// Link genealogy tags and member cards both ways
+document.addEventListener("DOMContentLoaded", () => {
+  const chips = [...document.querySelectorAll(".g-chip")];
+  const cards = [...document.querySelectorAll(".member[data-member]")];
+  const set = (id, on) => {
+    chips.filter(c => c.dataset.member === id).forEach(c => c.classList.toggle("is-on", on));
+    cards.filter(c => c.dataset.member === id).forEach(c => c.classList.toggle("is-on", on));
+  };
+  [...chips, ...cards].forEach(el => {
+    el.addEventListener("mouseenter", () => set(el.dataset.member, true));
+    el.addEventListener("mouseleave", () => set(el.dataset.member, false));
+  });
+  chips.forEach(c => c.addEventListener("click", e => {
+    e.preventDefault();
+    const card = document.getElementById("m-" + c.dataset.member);
+    if (!card) return;
+    card.scrollIntoView({ behavior: "smooth", block: "center" });
+    card.classList.remove("flash"); void card.offsetWidth; card.classList.add("flash");
+  }));
+});
+</script>
+```

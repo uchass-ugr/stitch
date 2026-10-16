@@ -1,0 +1,9 @@
+---
+title: "Outreach"
+subtitle: "Talks, media, podcasts and conversations beyond the journal page."
+listing:
+  contents: data/outreach.yml
+  template: _item.ejs
+  sort: "date desc"
+  date-format: "MMMM YYYY"
+---

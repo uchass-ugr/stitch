@@ -1,0 +1,16 @@
+---
+title: "Nicolás Robinson-García participates in the IPP"
+date: 2025-12-12
+categories: [Talk]
+description: "Nicolás Robinson-García analyzes the internal dynamics of research teams at the IPP-CSIC"
+---
+
+On December 10, the Institute for Public Policies and Goods (IPP-CSIC) invited Nicolás Robinson-García as part of an extensive program organized by the IPP itself with the aim of fostering interdisciplinary academic debate around central problems in the social sciences, to speak about internal work dynamics within the scientific community.
+
+The talk revolved around the results of several lines of research aimed at analyzing scientific collaboration from an empirical perspective, using large volumes of bibliographic data. The presentation focused on the growing complexity of scientific work, characterized by the increase in team size and an increasingly heterogeneous distribution of tasks, which challenges traditional models of credit attribution based solely on authorship order.
+
+One of the main axes of the seminar was the study of the roles performed by researchers within teams, based on the analysis of contribution statements and the CRediT taxonomy. In light of the editorial published by the journal Nature on this issue, using as bibliography a preprint by Gonzalez-Salmón et al. (2025) that analyzes contribution patterns by discipline, Robinson-García showed how certain profiles are associated with differentiated professional trajectories and how these dynamics can generate structural inequalities, including gender gaps, at key stages of the research career.
+
+Along these lines, the STITCH project is being developed, focused on the study of the organization of scientific work, the distribution of roles, and their implications for evaluation and science policy. In this sense, the seminar served as a space for reflection on how the analysis of team structures can contribute to designing fairer science policies and recognition models more aligned with the diversity of practices and contributions in contemporary science. We thank the IPP for the invitation, with which U^CHASS maintains a close relationship with its research staff, and we hope this will be the starting point for sustained collaboration with the public institution.
+
+{{< video https://www.youtube.com/embed/Gerxxe_WXds >}}

@@ -1,0 +1,17 @@
+# Featured outputs shown on the home page (newest first).
+# type: Publication | Outreach | Code | Data
+- title: "Publication patterns in the humanities: an author-level analysis of generational shifts"
+  categories: [Publication]
+  venue: "Humanities & Social Sciences Communications"
+  date: 2026-02-06
+  path: https://doi.org/10.1057/s41599-026-06604-6
+- title: "Beyond authorship: disciplinary differences of contribution statements (CRediT)"
+  categories: [Publication]
+  venue: "Preprint · Zenodo"
+  date: 2026-01-20
+  path: https://doi.org/10.5281/zenodo.18324546
+- title: "Mujeres científicas en España: un estudio comparativo de los últimos 30 años"
+  categories: [Publication]
+  venue: "Revista Española de Documentación Científica"
+  date: 2025-12-15
+  path: https://doi.org/10.3989/redc.2025.4.1767

@@ -1,0 +1,19 @@
+---
+title: "Humanities scholars publish differently: generations reshape research agendas"
+date: 2026-02-06
+categories: [Research]
+description: "Large-scale author-level analysis reveals structural transformations in topics, careers, and publication practices"
+image: "../assets/img/news/2_humanities.png"
+---
+
+Humanities scholarship has long relied on communication practices different from the sciences, where books, chapters and local languages remain central. A new study explores whether these traditions are stable or evolving by examining complete academic careers across decades. By analysing publication trajectories, the research asks how generational change affects what scholars study and how they disseminate knowledge. 
+
+The authors conduct an author-level analysis using large bibliographic datasets and statistical modelling to detect recurring behavioural profiles. This approach makes it possible to compare productivity, thematic orientation, language use and international reach across cohorts. The results reveal several distinct types of humanists, ranging from locally oriented scholars to internationally publishing researchers targeting global journal audiences.
+
+Clear generational shifts emerge. Younger scholars publish more in international journals and in English, while earlier cohorts rely more heavily on monographs and traditional formats. These changes coincide with evaluation systems driven by metrics and visibility, suggesting that assessment frameworks do not merely measure research but actively shape scholarly behaviour.
+
+![This visual summarizes how evaluation pressures are causing a generational shift in how humanists publish, moving away from local languages and books toward mainstream journals, raising concerns about the loss of bibliodiversity](../assets/img/news/2_humanities.png){fig-alt="This visual summarizes how evaluation pressures are causing a generational shift in how humanists publish, moving away from local languages and books toward mainstream journals, raising concerns about the loss of bibliodiversity"}
+
+Overall, the findings show that humanities communication is dynamic rather than static. Publication formats, topics and audiences evolve across careers and generations, reflecting broader institutional transformations. The study highlights the need for evaluation models capable of recognising the diversity of knowledge production in the humanities.
+
+**Reference**: Robinson-Garcia, N., Arroyo-Machado, W., González-Salmón, E. et al. Publication patterns in the humanities: an author-level analysis of generational shifts and changing research agendas. Humanit Soc Sci Commun (2026). <https://doi.org/10.1057/s41599-026-06604-6>

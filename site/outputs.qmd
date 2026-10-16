@@ -1,0 +1,34 @@
+---
+title: "Outputs"
+subtitle: "Everything STITCH publishes, in the open whenever we can."
+bibliography: data/publications.bib
+nocite: "@*"
+csl: data/apa.csl
+link-citations: false
+---
+
+::: {.boxes}
+
+::: {.box .box-wide}
+## Publications
+
+<p class="sub">Peer-reviewed articles and preprints</p>
+
+::: {#refs}
+:::
+:::
+
+::: {.box .box-tint .box-wide}
+## Code + Data
+
+<p class="sub">Open by default</p>
+
+Each paper gets its own replication package, archived with a DOI on [Zenodo](https://zenodo.org). The raw Elsevier data are licensed and cannot be shared; we release code and aggregated derived data.
+
+::: {.item}
+<p class="item-title"><a href="https://github.com/uchass-ugr/stitch">uchass-ugr/stitch</a></p>
+<div class="item-meta">GitHub · project repository</div>
+:::
+:::
+
+:::

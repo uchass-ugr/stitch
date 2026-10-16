@@ -1,0 +1,2 @@
+# Copy this file to .Renviron (never commit .Renviron) and fill in your local paths.
+STITCH_DATA=/path/to/stitch/restricted/data

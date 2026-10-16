@@ -1,0 +1,8 @@
+<% for (const item of items) { %>
+<div class="item" <%= metadataAttrs(item) %>>
+<% if (item.categories && item.categories.length) { %><span class="kicker"><%= item.categories[0] %></span><% } %>
+<p class="item-title"><a href="<%- item.path %>"><%= item.title %></a></p>
+<% if (item.description) { %><p class="item-desc"><%= item.description %></p><% } %>
+<div class="item-meta"><%= item.date %><% if (item.venue) { %> · <%= item.venue %><% } %></div>
+</div>
+<% } %>

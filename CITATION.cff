@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "STITCH: Scientific Teams and InequaliTies. Collaboration and Heterogeneity in Science"
+type: software
+authors:
+  - family-names: "Robinson-Garcia"
+    given-names: "Nicolas"
+    orcid: "https://orcid.org/0000-0002-0585-7359"
+    affiliation: "University of Granada"
+repository-code: "https://github.com/uchass-ugr/stitch"
+url: "https://uchass-ugr.github.io/stitch/"
+license: MIT
+keywords:
+  - science of science
+  - team science
+  - CRediT
+  - research evaluation
+  - inequalities

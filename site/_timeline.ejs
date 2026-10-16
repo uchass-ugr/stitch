@@ -1,0 +1,11 @@
+<% const label = {done: "Done", ongoing: "In progress", next: "Coming up"}; %>
+<ol class="timeline">
+<% for (const m of items) { %>
+<li class="tl-item tl-<%- m.status %>" <%= metadataAttrs(m) %>>
+<span class="tl-dot" aria-hidden="true"></span>
+<div class="tl-meta"><span class="tl-when"><%= m.when %></span><span class="tl-status"><%= label[m.status] %></span></div>
+<p class="tl-title"><% if (m.link) { %><a href="<%- m.link %>"><%= m.title %></a><% } else { %><%= m.title %><% } %></p>
+<p class="tl-text"><%= m.text %></p>
+</li>
+<% } %>
+</ol>

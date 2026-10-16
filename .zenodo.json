@@ -1,0 +1,15 @@
+{
+  "title": "STITCH: Scientific Teams and InequaliTies. Collaboration and Heterogeneity in Science",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Robinson-Garcia, Nicolas",
+      "affiliation": "University of Granada",
+      "orcid": "0000-0002-0585-7359"
+    }
+  ],
+  "license": "MIT",
+  "keywords": ["science of science", "team science", "CRediT", "research evaluation", "inequalities"],
+  "notes": "Project PID2024-155412OB-I00, funded by MICIU/AEI/10.13039/501100011033.",
+  "communities": []
+}

@@ -1,0 +1,17 @@
+---
+title: "Scientific work is not the same across disciplines: contribution analysis reveals new collaboration patterns"
+date: 2026-02-17
+categories: [Research]
+description: "A study of more than 700,000 papers shows that author order hides deep differences in academic labor division"
+image: "../assets/img/news/1_credit.png"
+---
+
+Authorship has traditionally been used as a proxy of merit, but it poorly reflects how scientific work is actually distributed. This study presents a cross-disciplinary descriptive analysis of contribution statements using the CRediT taxonomy, which identifies roles such as conceptualization, data analysis, and writing to understand science as a socially organized activity.
+
+![While traditional author lists (left) hide individual efforts, the CRediT taxonomy (right) provides a granular look at scientific collaboration](../assets/img/news/1_credit.png){fig-alt="While traditional author lists (left) hide individual efforts, the CRediT taxonomy (right) provides a granular look at scientific collaboration"}
+
+The researchers analyze hundreds of thousands of articles from major publishers and bibliographic databases to examine relationships between discipline, author position, and specific tasks. Within the STITCH framework, the research infrastructure has also renewed its agreement with Elsevier, expanding the available dataset to more than 1.5 million contribution records, enabling unprecedented large-scale analyses of team science and collaboration patterns.
+
+Results show that combining author order and contribution roles provides a richer understanding of scientific work. Substantial disciplinary differences emerge, indicating that author position alone may misrepresent credit allocation. Contribution taxonomies therefore offer a fairer basis for research evaluation and a more accurate description of scientific collaboration.
+
+**Reference**: González-Salmón, E., Di Césare, V., Xiao, A., & Robinson-Garcia, N. (2026). Beyond authorship: Analyzing disciplinary differences of contribution statements using the CRediT taxonomy. Zenodo. <https://doi.org/10.5281/zenodo.18324546>

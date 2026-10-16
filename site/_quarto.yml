@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "STITCH"
+  description: "Scientific Teams and InequaliTies: Collaboration and Heterogeneity in Science"
+  site-url: "https://uchass-ugr.github.io/stitch/"
+  favicon: assets/img/logo-icon.png
+  navbar:
+    logo: assets/img/logo-icon.png
+    logo-alt: "STITCH patch logo"
+    title: "STITCH"
+    left: []
+    right:
+      - text: "The Project"
+        href: project.qmd
+      - text: "The Team"
+        href: team.qmd
+      - text: "Outputs"
+        href: outputs.qmd
+      - text: "Outreach"
+        href: outreach.qmd
+      - text: "News"
+        href: news.qmd
+  page-footer:
+    center: |
+      **STITCH** · Project PID2024-155412OB-I00, funded by MICIU/AEI/10.13039/501100011033<br>
+      Hosted at [U\^CHASS](https://uchass.ugr.es), University of Granada · Builds on [COMPARE](https://uchass.ugr.es/compare) (PID2020-117007RA-I00)<br>
+      <span class="lic">Code MIT · Content CC BY 4.0</span>
+
+format:
+  html:
+    theme: [default, styles.scss]
+    css: []
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    title-block-banner: false
+    page-layout: full

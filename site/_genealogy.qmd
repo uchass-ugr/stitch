@@ -1,0 +1,177 @@
+```{=html}
+<div class="genealogy-wrap">
+<svg class="genealogy" viewBox="0 30 1000 1220" role="img" aria-label="Genealogy of ideas behind STITCH, from Big Science (1963) to team organization and inequalities in science, with the starting point of each team member">
+<defs><marker id="gk" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L10 5 L0 9 Z" class="g-head"/></marker><marker id="gx" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L10 5 L0 9 Z" class="g-headx"/></marker></defs>
+<text x="18" y="96" class="g-year">1960</text>
+<line x1="62" x2="980" y1="92" y2="92" class="g-grid"/>
+<text x="18" y="199" class="g-year">1970</text>
+<line x1="62" x2="980" y1="195" y2="195" class="g-grid"/>
+<text x="18" y="303" class="g-year">1980</text>
+<line x1="62" x2="980" y1="299" y2="299" class="g-grid"/>
+<text x="18" y="406" class="g-year">1990</text>
+<line x1="62" x2="980" y1="402" y2="402" class="g-grid"/>
+<text x="18" y="514" class="g-year">1995</text>
+<line x1="62" x2="980" y1="510" y2="510" class="g-grid"/>
+<text x="18" y="623" class="g-year">2000</text>
+<line x1="62" x2="980" y1="619" y2="619" class="g-grid"/>
+<text x="18" y="731" class="g-year">2005</text>
+<line x1="62" x2="980" y1="727" y2="727" class="g-grid"/>
+<text x="18" y="839" class="g-year">2010</text>
+<line x1="62" x2="980" y1="835" y2="835" class="g-grid"/>
+<text x="18" y="948" class="g-year">2015</text>
+<line x1="62" x2="980" y1="944" y2="944" class="g-grid"/>
+<text x="18" y="1056" class="g-year">2020</text>
+<line x1="62" x2="980" y1="1052" y2="1052" class="g-grid"/>
+<text x="18" y="1164" class="g-year">2025</text>
+<line x1="62" x2="980" y1="1160" y2="1160" class="g-grid"/>
+<g class="g-edges" marker-end="url(#gk)"><path d="M470 167 L470 210"/><path d="M500 158 C640 190 690 300 690 466"/><path d="M190 219 L112 461"/><path d="M490 260 L552 548"/><path d="M725 496 L783 520"/><path d="M875 552 L875 571"/><path d="M880 621 L903 1058"/><path d="M360 598 L398 916"/><path d="M560 616 L560 664"/><path d="M290 684 C360 720 385 820 392 916"/><path d="M550 734 L525 764"/><path d="M760 771 L742 971"/><path d="M440 792 L338 806"/><path d="M540 814 L592 1024"/><path d="M110 511 L110 894"/><path d="M125 944 L205 1188"/><path d="M95 944 L95 1236 L700 1236 L700 1216"/><path d="M230 856 L230 1188"/><path d="M398 966 L365 1046"/><path d="M340 1107 L260 1188"/><path d="M560 1074 L295 1188"/><path d="M640 1074 L735 1106"/><path d="M742 1021 L758 1106"/><path d="M765 1156 L770 1188"/><path d="M890 1126 L825 1188"/></g>
+<g class="g-edges g-dash" marker-end="url(#gk)"><path d="M305 346 L355 548"/><path d="M800 430 L708 466"/><path d="M430 1198 L348 1198"/><path d="M570 1198 L640 1198"/></g>
+<g class="g-edges g-ext" marker-end="url(#gx)"><path d="M770 160 L578 548"/><path d="M815 160 L855 361"/><path d="M680 644 L600 664"/><path d="M720 644 L758 721"/><path d="M742 925 L893 1056"/></g>
+<g class="g-node">
+<text x="470.0" y="137" class="g-title" text-anchor="middle">BIG SCIENCE</text>
+<text x="470.0" y="154" class="g-sub" text-anchor="middle">Price · 1963</text>
+<line x1="420.0" x2="520.0" y1="163" y2="163" class="g-seam"/>
+</g>
+<g class="g-ext">
+<rect x="705" y="121" width="170" height="38" rx="6" class="g-extbox"/>
+<text x="790.0" y="138" class="g-title" text-anchor="middle">CITATION INDEXING</text>
+<text x="790.0" y="155" class="g-sub" text-anchor="middle">Garfield · 1964</text>
+</g>
+<g class="g-node">
+<text x="190.0" y="189" class="g-title" text-anchor="middle">MATTHEW EFFECT</text>
+<text x="190.0" y="206" class="g-sub" text-anchor="middle">Merton · 1968</text>
+<line x1="140.0" x2="240.0" y1="215" y2="215" class="g-seam"/>
+</g>
+<g class="g-node">
+<text x="470.0" y="230" class="g-title" text-anchor="middle">INVISIBLE COLLEGES</text>
+<text x="470.0" y="247" class="g-sub" text-anchor="middle">Price &amp; Beaver 1966 · Crane 1972</text>
+<line x1="420.0" x2="520.0" y1="256" y2="256" class="g-seam"/>
+</g>
+<g class="g-node">
+<text x="300.0" y="316" class="g-title" text-anchor="middle">LABORATORY LIFE</text>
+<text x="300.0" y="333" class="g-sub" text-anchor="middle">Latour &amp; Woolgar · 1979</text>
+<line x1="250.0" x2="350.0" y1="342" y2="342" class="g-seam"/>
+</g>
+<g class="g-node">
+<text x="860.0" y="381" class="g-title" text-anchor="middle">SEXENIOS</text>
+<text x="860.0" y="398" class="g-sub" text-anchor="middle">Jiménez-Contreras et al. · 2003</text>
+<line x1="810.0" x2="910.0" y1="407" y2="407" class="g-seam"/>
+</g>
+<g class="g-node">
+<text x="110.0" y="481" class="g-title" text-anchor="middle">MATILDA EFFECT</text>
+<text x="110.0" y="498" class="g-sub" text-anchor="middle">Rossiter · 1993</text>
+<line x1="60.0" x2="160.0" y1="507" y2="507" class="g-seam"/>
+</g>
+<g class="g-node">
+<text x="690.0" y="486" class="g-title" text-anchor="middle">MODE 2</text>
+<text x="690.0" y="503" class="g-sub" text-anchor="middle">Gibbons et al. · 1994</text>
+<line x1="640.0" x2="740.0" y1="512" y2="512" class="g-seam"/>
+</g>
+<g class="g-node">
+<text x="875.0" y="521" class="g-title" text-anchor="middle">TRIPLE HELIX</text>
+<text x="875.0" y="538" class="g-sub" text-anchor="middle">Etzkowitz &amp; Leydesdorff · 1995</text>
+<line x1="825.0" x2="925.0" y1="547" y2="547" class="g-seam"/>
+</g>
+<g class="g-node">
+<text x="360.0" y="568" class="g-title" text-anchor="middle">CONTRIBUTORSHIP</text>
+<text x="360.0" y="585" class="g-sub" text-anchor="middle">Rennie et al. · 1997</text>
+<line x1="310.0" x2="410.0" y1="594" y2="594" class="g-seam"/>
+</g>
+<g class="g-node">
+<text x="560.0" y="568" class="g-title" text-anchor="middle">WHAT IS</text>
+<text x="560.0" y="587" class="g-title" text-anchor="middle">COLLABORATION?</text>
+<text x="560.0" y="604" class="g-sub" text-anchor="middle">Katz &amp; Martin · 1997</text>
+<line x1="510.0" x2="610.0" y1="613" y2="613" class="g-seam"/>
+</g>
+<g class="g-node">
+<text x="875.0" y="591" class="g-title" text-anchor="middle">CO-PRODUCTION</text>
+<text x="875.0" y="608" class="g-sub" text-anchor="middle">Ostrom · 1996</text>
+<line x1="825.0" x2="925.0" y1="617" y2="617" class="g-seam"/>
+</g>
+<g class="g-ext">
+<rect x="615" y="605" width="170" height="38" rx="6" class="g-extbox"/>
+<text x="700.0" y="622" class="g-title" text-anchor="middle">NETWORK SCIENCE</text>
+<text x="700.0" y="639" class="g-sub" text-anchor="middle">Watts &amp; Strogatz · Barabási</text>
+</g>
+<g class="g-node">
+<text x="290.0" y="654" class="g-title" text-anchor="middle">HYPERAUTHORSHIP</text>
+<text x="290.0" y="671" class="g-sub" text-anchor="middle">Cronin · 2001</text>
+<line x1="240.0" x2="340.0" y1="680" y2="680" class="g-seam"/>
+</g>
+<g class="g-node">
+<text x="560.0" y="684" class="g-title" text-anchor="middle">CO-AUTHORSHIP</text>
+<text x="560.0" y="703" class="g-title" text-anchor="middle">NETWORKS</text>
+<text x="560.0" y="720" class="g-sub" text-anchor="middle">Newman · 2001</text>
+<line x1="510.0" x2="610.0" y1="729" y2="729" class="g-seam"/>
+</g>
+<g class="g-node">
+<text x="760.0" y="741" class="g-title" text-anchor="middle">GLOBAL NETWORK</text>
+<text x="760.0" y="758" class="g-sub" text-anchor="middle">Wagner &amp; Leydesdorff · 2005</text>
+<line x1="710.0" x2="810.0" y1="767" y2="767" class="g-seam"/>
+</g>
+<g class="g-node">
+<text x="520.0" y="784" class="g-title" text-anchor="middle">TEAM DOMINANCE</text>
+<text x="520.0" y="801" class="g-sub" text-anchor="middle">Wuchty, Jones &amp; Uzzi · 2007</text>
+<line x1="470.0" x2="570.0" y1="810" y2="810" class="g-seam"/>
+</g>
+<g class="g-node">
+<text x="230.0" y="806" class="g-title" text-anchor="middle">SCIENCE OF</text>
+<text x="230.0" y="825" class="g-title" text-anchor="middle">TEAM SCIENCE</text>
+<text x="230.0" y="842" class="g-sub" text-anchor="middle">Stokols et al. · 2008</text>
+<line x1="180.0" x2="280.0" y1="851" y2="851" class="g-seam"/>
+</g>
+<g class="g-ext">
+<rect x="590" y="896" width="150" height="44" rx="6" class="g-extbox"/>
+<text x="665.0" y="913" class="g-title" text-anchor="middle">HELICOPTER</text>
+<text x="665.0" y="932" class="g-title" text-anchor="middle">RESEARCH</text>
+</g>
+<g class="g-node">
+<text x="115.0" y="914" class="g-title" text-anchor="middle">GENDER GAPS</text>
+<text x="115.0" y="931" class="g-sub" text-anchor="middle">Larivière et al. · 2013</text>
+<line x1="65.0" x2="165.0" y1="940" y2="940" class="g-seam"/>
+</g>
+<g class="g-node">
+<text x="400.0" y="936" class="g-title" text-anchor="middle">CRediT</text>
+<text x="400.0" y="953" class="g-sub" text-anchor="middle">Allen et al. · 2014</text>
+<line x1="350.0" x2="450.0" y1="962" y2="962" class="g-seam"/>
+</g>
+<g class="g-node">
+<text x="740.0" y="991" class="g-title" text-anchor="middle">MOBILITY</text>
+<text x="740.0" y="1008" class="g-sub" text-anchor="middle">Sugimoto et al. · 2017</text>
+<line x1="690.0" x2="790.0" y1="1017" y2="1017" class="g-seam"/>
+</g>
+<g class="g-node">
+<text x="600.0" y="1044" class="g-title" text-anchor="middle">SMALL vs LARGE TEAMS</text>
+<text x="600.0" y="1061" class="g-sub" text-anchor="middle">Wu, Wang &amp; Evans · 2019</text>
+<line x1="550.0" x2="650.0" y1="1070" y2="1070" class="g-seam"/>
+</g>
+<g class="g-node">
+<text x="360.0" y="1066" class="g-title" text-anchor="middle">DIVISION OF LABOUR</text>
+<text x="360.0" y="1083" class="g-sub" text-anchor="middle">Larivière et al. 2016 · Robinson-Garcia et al. 2020</text>
+<line x1="310.0" x2="410.0" y1="1092" y2="1092" class="g-seam"/>
+</g>
+<g class="g-node">
+<text x="905.0" y="1078" class="g-title" text-anchor="middle">LOCAL RESEARCH</text>
+<text x="905.0" y="1095" class="g-sub" text-anchor="middle">Di Césare &amp; Robinson-Garcia · 2026</text>
+<line x1="855.0" x2="955.0" y1="1104" y2="1104" class="g-seam"/>
+</g>
+<g class="g-node">
+<text x="760.0" y="1126" class="g-title" text-anchor="middle">REMOTE COLLABORATION</text>
+<text x="760.0" y="1143" class="g-sub" text-anchor="middle">Lin, Frey &amp; Wu · 2023</text>
+<line x1="710.0" x2="810.0" y1="1152" y2="1152" class="g-seam"/>
+</g>
+<text x="230" y="1204" class="g-end" text-anchor="middle">TEAM ORGANIZATION</text>
+<text x="770" y="1204" class="g-end" text-anchor="middle">INEQUALITIES IN SCIENCE</text>
+<g class="g-stitch"><rect x="430" y="1176" width="140" height="49" rx="8"/><text x="500" y="1197" text-anchor="middle" class="g-stitch-t">STITCH</text><text x="500" y="1214" text-anchor="middle" class="g-stitch-s">University of Granada</text></g>
+<a href="#m-jimenez" class="g-chip" data-member="jimenez" aria-label="Meet Jiménez-Contreras"><rect x="800" y="417" width="143" height="22" rx="11"/><text x="871.5" y="432" text-anchor="middle">Jiménez-Contreras</text></a>
+<a href="#m-ramos" class="g-chip" data-member="ramos" aria-label="Meet Ramos-Vielba"><rect x="818" y="477" width="107" height="22" rx="11"/><text x="871.5" y="492" text-anchor="middle">Ramos-Vielba</text></a>
+<a href="#m-melkers" class="g-chip" data-member="melkers" aria-label="Meet Melkers"><rect x="656" y="575" width="72" height="22" rx="11"/><text x="692.0" y="590" text-anchor="middle">Melkers</text></a>
+<a href="#m-du" class="g-chip" data-member="du" aria-label="Meet Du"><rect x="730" y="575" width="36" height="22" rx="11"/><text x="748.0" y="590" text-anchor="middle">Du</text></a>
+<a href="#m-gonzalez" class="g-chip" data-member="gonzalez" aria-label="Meet González-Salmón"><rect x="128" y="867" width="128" height="22" rx="11"/><text x="192.0" y="882" text-anchor="middle">González-Salmón</text></a>
+<a href="#m-sugimoto" class="g-chip" data-member="sugimoto" aria-label="Meet Sugimoto"><rect x="708" y="1019" width="79" height="22" rx="11"/><text x="747.5" y="1034" text-anchor="middle">Sugimoto</text></a>
+<a href="#m-miao" class="g-chip" data-member="miao" aria-label="Meet Miao"><rect x="784" y="1019" width="50" height="22" rx="11"/><text x="809.0" y="1034" text-anchor="middle">Miao</text></a>
+<a href="#m-dicesare" class="g-chip" data-member="dicesare" aria-label="Meet Di Césare"><rect x="905" y="1110" width="86" height="22" rx="11"/><text x="948.0" y="1125" text-anchor="middle">Di Césare</text></a>
+<a href="#m-robinson" class="g-chip" data-member="robinson" aria-label="Meet Robinson-García"><rect x="437" y="1149" width="128" height="22" rx="11"/><text x="501.0" y="1164" text-anchor="middle">Robinson-García</text></a>
+</svg>
+</div>
+```

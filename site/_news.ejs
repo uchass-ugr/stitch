@@ -1,0 +1,13 @@
+<div class="news-grid">
+<% for (const item of items) { const d = new Date(item.date); %>
+<div class="news-card" <%= metadataAttrs(item) %>>
+<div class="nc-date"><span class="nc-day"><%= String(d.getUTCDate()).padStart(2,"0") %></span><span class="nc-my"><%= d.toLocaleString("en-GB",{month:"short",timeZone:"UTC"}) %> <%= d.getUTCFullYear() %></span></div>
+<div class="nc-body">
+<% if (item.categories && item.categories.length) { %><span class="kicker"><%= item.categories[0] %></span><% } %>
+<p class="nc-title"><a class="stretched-link" href="<%- item.path %>"><%= item.title %></a></p>
+<% if (item.description) { %><p class="nc-desc"><%= item.description %></p><% } %>
+<span class="nc-more">Read →</span>
+</div>
+</div>
+<% } %>
+</div>
