@@ -25,7 +25,7 @@ listing:
 ::: {}
 <p class="acronym"><b class="c">S</b>cientific <b class="c">T</b>eams and <b class="c">I</b>nequali<b class="c">T</b>ies: <b class="c">C</b>ollaboration and <b class="c">H</b>eterogeneity in Science</p>
 
-<p class="tagline">How scientific teams divide their work, and how that division stitches inequality into the research system.</p>
+<p class="tagline">Understanding team dynamics in scientific collaboration to mitigate inequalities and promote diversity in science.</p>
 :::
 
 ![](assets/img/logo-patch.png){fig-alt="STITCH embroidered patch: three black strips crossed by a needle over a blue band"}
