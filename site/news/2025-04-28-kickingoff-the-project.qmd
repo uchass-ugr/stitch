@@ -10,5 +10,5 @@ Recently, **the [STITCH team →](https://uchass-ugr.github.io/stitch/team.html)
 
 We’re incredibly proud to bring together such a talented and diverse international team to make this project a reality! We look forward to continuing our collaboration and moving the project forward together.
 
-![](../assets/img/news/4_kickoff.png){width="60%" fig-align="center"} 
+![](../assets/img/news/4_kickoff.png)
 ---
