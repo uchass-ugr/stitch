@@ -2,6 +2,7 @@
 title: "Kicking off the Project"
 date: 2026-04-28
 categories: [Media]
+image: "../assets/img/news/4_kickoff.png"
 ---
 
 STITCH aims to explore how scientific teams are organized, how responsibilities are distributed among researchers and how these dynamics contribute to inequalities in science. 
@@ -10,5 +11,7 @@ Recently, **the [STITCH team →](https://uchass-ugr.github.io/stitch/team.html)
 
 We’re incredibly proud to bring together such a talented and diverse international team to make this project a reality! We look forward to continuing our collaboration and moving the project forward together.
 
-![](../assets/img/news/4_kickoff.png){width="70%" fig-align="center" style="border: none !important; box-shadow: none !important;"}
+
+![](../assets/img/news/4_kickoff.png)
+
 ---
