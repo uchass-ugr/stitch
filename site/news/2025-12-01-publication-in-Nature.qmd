@@ -1,9 +1,0 @@
----
-title: "Publication in Nature"
-date: 2025-12-01
-categories: [Media]
----
-
-Nature highlights a study from the STITCH team that uses the CRediT taxonomy to uncover how scientific teams distribute contributions across disciplines.
-
-[Read the Nature piece →](https://www.nature.com/articles/d41586-025-03860-5)
