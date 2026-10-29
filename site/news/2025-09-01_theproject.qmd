@@ -6,7 +6,7 @@ categories: [Project]
 
 ## Introducing STITCH
 
-Led by \[Nicolás Robinson-García\](<https://elrobin.github.io/>) at the University of Granada, STITCH builds on the \[COMPARE project\](<https://uchass.ugr.es/compare/about/>) to explore how scientific teams are organized, how research tasks are distributed, and how inequalities emerge within scientific collaboration.
+Led by [Nicolás Robinson-García](https://elrobin.github.io/) at the University of Granada, STITCH builds on the [COMPARE project](https://uchass.ugr.es/compare/about/) to explore how scientific teams are organized, how research tasks are distributed, and how inequalities emerge within scientific collaboration.
 
 Science is becoming increasingly collaborative. However, we still evalutate it as if it were a work od individuals. **STITCH (Scientific Teams and InequaliTies: Colaboration and Heterogeneity in Science)** is a new research project tha aims to better understand the social organization of science ans its relationship with inequalities within research teams.
 
