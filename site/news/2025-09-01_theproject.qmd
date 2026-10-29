@@ -1,0 +1,23 @@
+---
+title: "Introducing STITCH"
+date: 2025-09-01
+categories: [Project]
+---
+
+## Introducing STITCH
+
+Led by \[Nicolás Robinson-García\] (<https://elrobin.github.io/>) at the University of Granada, STITCH builds on the \[COMPARE project\] (<https://uchass.ugr.es/compare/about/>) to explore how scientific teams are organized, how research tasks are distributed, and how inequalities emerge within scientific collaboration.
+
+Science is becoming increasingly collaborative. However, we still evalutate it as if it were a work od individuals. **STITCH (Scientific Teams and InequaliTies: Colaboration and Heterogeneity in Science)** is a new research project tha aims to better understand the social organization of science ans its relationship with inequalities within research teams.
+
+As it is aforementioned, STITCH builds on the work carried out in the \[COMPARE project\] (<https://uchass.ugr.es/compare/about/>) which focused on studying diversity within the scientific workforce and researchers' career trajectories using bibliometric methods. Building on these findings, STITCH shifts the focus towards scientific collaboration and the internal organization of research teams, examining how different forms of labor distribution relate to scientific knowledge production and inequalities in the recognition of individual contributions.
+
+The project addresses three main objectives: **mapping the different organizational structures of scientific teams, understanding how researchers' roles evolve over time, and analyzing inequalities within scientific collaboration**. Particular attention will be paid to factors such as gender, geographical origin, and international mobility, as well as disciplinary differences in how research activities are organized and carried out.
+
+STITCH brings together an \[international team\] (<https://uchass-ugr.github.io/stitch/team.html>). Alongside Nicolás Robinson-García, the project involves \[Evaristo Jiménez-Contreras\] (<https://orcid.org/0000-0001-5668-7057>), \[Irene Ramos-Vielba\] (<https://orcid.org/0000-0002-8998-0388>), \[Julia Melkers\] (<https://orcid.org/0000-0001-5045-4068>), \[Cassidy Sugimoto\] (<https://orcid.org/0000-0001-8608-3203>), \[Elvira González-Salmón\] (<https://orcid.org/0000-0003-3826-766X>), \[Victoria Di Césare\] (<https://orcid.org/0000-0001-7098-1914>), \[Lili Miao\] (<https://github.com/LiliMiaohub>), and \[Luyu Du\] (<https://orcid.org/0009-0008-2127-8251>).
+
+From a methodological perspective, STITCH combines bibliometric techniques, data science, and machine learning to identify patterns of scientific collaboration. One of its key resources is a unique dataset of **more than 700,000 scientific publications**, developed through previous work conducted within COMPARE, which provides detailed information on individual author contributions **using the CRediT taxonomy**. This information makes it possible to examine scientific teamwork beyond traditional indicators such as publication counts or authorship order, offering a more comprehensive understanding of how research tasks and responsibilities are distributed.
+
+One of the studies providing a foundation for STITCH is [***Beyond authorship: Analyzing disciplinary differences of contribution statements using the CRediT taxonomy***](https://link.springer.com/article/10.1007/s11192-026-05582-5), published in *Scientometrics* by **Elvira González-Salmón, Victoria Di Césare, Aoxia Xiao, and Nicolás Robinson-García**. The study examines how author contributions vary across scientific disciplines and highlights the potential of contribution data to better understand the division of labor in research. Its findings provide a starting point for exploring several of the questions that STITCH will address throughout the project.
+
+Beyond understanding how scientific teams operate, STITCH seeks to generate evidence that can inform research policies and improve research evaluation systems. At a time when research assessment practices are undergoing significant changes, the project emphasizes the importance of **recognizing the collaborative nature of science**, acknowledging the diversity of contributions, and identifying the mechanisms that may reinforce or mitigate inequalities.
