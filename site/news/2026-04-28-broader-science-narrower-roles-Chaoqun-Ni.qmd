@@ -1,0 +1,13 @@
+---
+title: "'Broader science, narrower roles: Scientific expertise in the age of AI', by Chaoqun Ni et al."
+date: 2026-11-05
+categories: [Reading]
+---
+
+On November 2nd, the Computational Social Philosophy of AI Seminars (CSPAIS) hosted a talk by Chaoqun Ni. The Associate Professor at University of Wisconsin-Madison presented her recent work, titled ['Scientific exploration, collaboration and labor division in the large language model era'](https://arxiv.org/abs/2607.20923). Our team member, Victoria Di Césare, joined the online meeting to find out more about this research, which is very relevant to STITCH's objectives.
+
+Victoria found the distinction the authors made between the intellectual and functional scope of expertise particularly interesting. They operationalised these two facets of expertise through scientific fields and CRediT roles in order to answer three key questions: what do researchers work on, who do they work with, and how do teams divide work in the age of AI. To answer them, the authors analysed biomedical articles with and without AI-writing signals, and established 2022 as the turning point in LLMs adoption.
+
+As a result, Ni and colleagues found compelling evidence of, for instance: authors publishing across more varied and distant fields; senior researchers pivoting their interests the most; early AI adopter being already more inclined to explore and pivot; co-authors coming from more diverse fields; team sizes remaining stable; technical roles, such as software, visualization and validation, having increased since AI adoption; and roles overlapping less among co-authors. Although the authors do not imply any causal effects, they argue that the LLM era coincides with a reorganisation of scientific activity, in terms of broader portfolios, more interdisciplinary collaboration, and narrower individual roles.
+
+------------------------------------------------------------------------
